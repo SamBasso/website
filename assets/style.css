@@ -679,7 +679,9 @@ h3.skills{
 }
 
 .footer-menu-item {
-  display: block;
+  display:inline-flex;
+  padding-top: 20px;
+  padding-inline:50px;
   list-style: none;
 }
 
